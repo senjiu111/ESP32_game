@@ -1,0 +1,15 @@
+.pio/
+.venv/
+.vscode/
+.git/
+.gitstore/
+
+build/
+dist/
+build_output.txt
+pic/menu_covers/menu_cover_options_3x3.png
+
+*.bin
+*.elf
+*.map
+*.log
